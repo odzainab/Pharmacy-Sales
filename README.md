@@ -141,7 +141,6 @@ The toggle enhances interactivity while maintaining consistent data integrity ac
 - December 2025 recorded the strongest unit sales  
 - Growth is more consistent compared to 2024  
 
----
 
 ### 2️⃣ Legacy Products Dominate Performance  
 
@@ -151,7 +150,7 @@ The toggle enhances interactivity while maintaining consistent data integrity ac
 
 Short-term profitability remains highly dependent on legacy product strength.
 
----
+
 
 ### 3️⃣ Regional Contribution Patterns  
 
@@ -166,7 +165,7 @@ Underperforming Markets:
 
 Western Europe remains the revenue backbone, while Central and Eastern Europe show expansion opportunities.
 
----
+
 
 ### 4️⃣ Urban Pharmacies Drive Performance  
 
@@ -177,7 +176,6 @@ Urban pharmacies lead across:
 
 However, suburban and rural pharmacies represent untapped growth potential.
 
----
 
 ### 5️⃣ Promotion Impact  
 
@@ -185,7 +183,7 @@ However, suburban and rural pharmacies represent untapped growth potential.
 - Promoted products show stronger margin efficiency  
 - Balanced strategy between volume and profitability is required  
 
----
+
 
 ### 6️⃣ Volume vs Margin Trade-Off  
 
